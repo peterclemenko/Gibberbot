@@ -6,8 +6,8 @@
   <version>0.4-SNAPSHOT</version>
   <packaging>apk</packaging>
   <name>Gibberbot</name>
-  <description></description>
-  <url></url>
+  <description/>
+  <url/>
 
   <licenses>
     <license>
@@ -99,7 +99,7 @@
     <dependency>
       <groupId>org.jsoup</groupId>
       <artifactId>jsoup</artifactId>
-      <version>1.5.2</version>
+      <version>1.19.1</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
